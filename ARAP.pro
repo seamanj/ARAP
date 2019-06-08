@@ -32,7 +32,7 @@ QMAKE_CXXFLAGS += -std=c++11
 #INCLUDEPATH += "c:/work_files/glm"
 #INCLUDEPATH += "c:\work_files\OPENGL\include"
 #INCLUDEPATH += "c:\work_files\boost_1_55_0"
-INCLUDEPATH += "/home/seamanj/Software/eigen-eigen-b3f3d4950030"
+INCLUDEPATH += "/home/seamanj/Software/eigen-eigen-323c052e1731"
 #INCLUDEPATH += "c:\work_files\CGAL-4.7\auxiliary\gmp\include"
 #INCLUDEPATH += "c:\work_files\CGAL-4.7\build\include"
 #INCLUDEPATH += "c:\work_files\CGAL-4.7\build_vs2015_x64\include"
